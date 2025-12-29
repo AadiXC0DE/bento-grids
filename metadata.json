@@ -1,0 +1,5 @@
+{
+  "name": "BentoGrid Pro",
+  "description": "A visual prototyping tool for creating responsive Bento Grid layouts with clean React/Tailwind code export.",
+  "requestFramePermissions": []
+}
